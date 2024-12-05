@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="3">
   <diagram name="Nivel_01" id="5H8RK2bynrrVNt_t68Tk">
-    <mxGraphModel dx="1834" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         </object>
         <object placeholders="1" c4Name="Sistema de Simulados Colaborativos" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="CL_LBndg5or0uDUuHaDi-1">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#1fa2db;fontColor=#1FA2DB;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="70" y="450" width="2399" height="2000" as="geometry" />
+            <mxGeometry x="70" y="450" width="2399" height="1790" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="API - manutenção de questões" c4Type="Container" c4Technology="Lambda, NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à criação e alteração de questões do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="CL_LBndg5or0uDUuHaDi-3">
@@ -120,7 +120,7 @@
           </mxCell>
         </object>
         <mxCell id="c6PvVyJN1bNgqXZLuOgy-1" value="Legenda" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;" parent="1" vertex="1">
-          <mxGeometry x="-493" y="2154" width="180" height="210" as="geometry" />
+          <mxGeometry x="-486" y="1944" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="c6PvVyJN1bNgqXZLuOgy-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="c6PvVyJN1bNgqXZLuOgy-1" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -172,7 +172,7 @@
         </mxCell>
         <object placeholders="1" c4Name="[System Context] Sistema de Simulados Colaborativos" c4Type="ContainerScopeBoundary" c4Description="Diagrama de contexto do Sistema de Simulados Colaborativos - nível 2 do modelo C4" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Description%&lt;/div&gt;" id="NSgmHD5Emlv163TTFXFE-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;metaEdit=1;allowArrows=0;resizable=1;rotatable=0;connectable=0;recursiveResize=0;expand=0;pointerEvents=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="-494" y="2404" width="530" height="40" as="geometry" />
+            <mxGeometry x="-487" y="2194" width="530" height="40" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Aplicação Web" c4Type="Container" c4Technology="JavaScript e Angular" c4Description="Disponibiliza todas as funcionalidades do Sistema de Simulados Colaborativos para os estudantes através do navegador" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_7IkK0P6RhD-D05Mg6ee-1">
@@ -204,22 +204,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xRGm1nkFT3aKSl003ilL-8" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="xRGm1nkFT3aKSl003ilL-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1320" y="538" width="233.5" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="xRGm1nkFT3aKSl003ilL-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fillColor=#23A2D9;" vertex="1" parent="xRGm1nkFT3aKSl003ilL-8">
+        <mxCell id="xRGm1nkFT3aKSl003ilL-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fillColor=#23A2D9;" parent="xRGm1nkFT3aKSl003ilL-8" vertex="1">
           <mxGeometry width="233.5" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="xRGm1nkFT3aKSl003ilL-7" value="" style="group" vertex="1" connectable="0" parent="xRGm1nkFT3aKSl003ilL-8">
+        <mxCell id="xRGm1nkFT3aKSl003ilL-7" value="" style="group" parent="xRGm1nkFT3aKSl003ilL-8" vertex="1" connectable="0">
           <mxGeometry x="12" y="32" width="209.5" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="xRGm1nkFT3aKSl003ilL-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Aplicação Mobile&lt;/font&gt;&lt;/b&gt;&lt;div&gt;[Container: React Native]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="xRGm1nkFT3aKSl003ilL-7">
+        <mxCell id="xRGm1nkFT3aKSl003ilL-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Aplicação Mobile&lt;/font&gt;&lt;/b&gt;&lt;div&gt;[Container: React Native]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="xRGm1nkFT3aKSl003ilL-7" vertex="1">
           <mxGeometry x="17.75" width="174" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xRGm1nkFT3aKSl003ilL-6" value="Disponibiliza todas as funcionalidades do Sistema de Simulados Colaborativos para os estudantes através do navegador" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;" vertex="1" parent="xRGm1nkFT3aKSl003ilL-7">
+        <mxCell id="xRGm1nkFT3aKSl003ilL-6" value="Disponibiliza todas as funcionalidades do Sistema de Simulados Colaborativos para os estudantes através do navegador" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;" parent="xRGm1nkFT3aKSl003ilL-7" vertex="1">
           <mxGeometry y="49" width="209.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xRGm1nkFT3aKSl003ilL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.554;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5iQ2zW2p_STfxMjJQaRb-2" target="xRGm1nkFT3aKSl003ilL-3">
+        <mxCell id="xRGm1nkFT3aKSl003ilL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.554;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5iQ2zW2p_STfxMjJQaRb-2" target="xRGm1nkFT3aKSl003ilL-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1155" y="507" as="targetPoint" />
             <mxPoint x="1408" y="270" as="sourcePoint" />
@@ -229,51 +229,51 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-1" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.465;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xRGm1nkFT3aKSl003ilL-3" target="1NAFfyij3I4nuhlWr-Z4-3">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-1" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.465;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xRGm1nkFT3aKSl003ilL-3" target="1NAFfyij3I4nuhlWr-Z4-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="967" y="655" as="sourcePoint" />
             <mxPoint x="1120" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="BFF Aplicação Web" c4Type="Container" c4Technology="NodeJS" c4Description="Atua como um intermediário entre a aplicação web e o Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="607" y="834" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="BFF Aplicação Mobile" c4Type="Container" c4Technology="NodeJS" c4Description="Atua como um intermediário entre a aplicação mobile e o Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="1673" y="836" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="API - manutenção de usuário " c4Type="Container" c4Technology="Lambda, NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas a manutenção de usuários do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="1151" y="1495" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Banco de Dados - Usuários" c4Type="Container" c4Technology="PostgreSQL" c4Description="Armazena dados referentes aos usuários do sistema." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-5">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="1155" y="1808" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-6" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;fixDash=0;snapToPoint=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-4" target="1NAFfyij3I4nuhlWr-Z4-5">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-6" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;fixDash=0;snapToPoint=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-4" target="1NAFfyij3I4nuhlWr-Z4-5" edge="1">
           <mxGeometry x="0.0007" relative="1" as="geometry">
             <mxPoint x="1928" y="847" as="sourcePoint" />
             <mxPoint x="2121" y="847" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-7" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#FF0080;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-7" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="API - consulta de questões" c4Type="Container" c4Technology="ECS, NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à consulta de questões do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fixDash=0;snapToPoint=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fixDash=0;snapToPoint=0;" parent="1" vertex="1">
             <mxGeometry x="725" y="1690" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-9" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-8" target="CL_LBndg5or0uDUuHaDi-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-9" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-8" target="CL_LBndg5or0uDUuHaDi-4" edge="1">
           <mxGeometry x="0.0007" relative="1" as="geometry">
             <mxPoint x="320" y="1072" as="sourcePoint" />
             <mxPoint x="513" y="1072" as="targetPoint" />
@@ -281,11 +281,11 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="API - manutenção de comentário" c4Type="Container" c4Technology="Lambda, NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à manutenção de comentários das questões do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;fixDash=0;snapToPoint=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;fixDash=0;snapToPoint=0;" parent="1" vertex="1">
             <mxGeometry x="414.5" y="1690" width="265" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-11" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-10" target="CL_LBndg5or0uDUuHaDi-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-11" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-10" target="CL_LBndg5or0uDUuHaDi-4" edge="1">
           <mxGeometry x="0.0007" relative="1" as="geometry">
             <mxPoint x="320" y="1072" as="sourcePoint" />
             <mxPoint x="513" y="1072" as="targetPoint" />
@@ -293,35 +293,35 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="API - resposta de simulado" c4Type="Container" c4Technology="ECS, NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à resposta de simulados do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-13">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fixDash=0;snapToPoint=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fixDash=0;snapToPoint=0;" parent="1" vertex="1">
             <mxGeometry x="1822" y="1692" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Banco de Dados - Simulados" c4Type="Container" c4Technology="PostgreSQL" c4Description="Armazena dados referentes aos simulados do sistema." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-14">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="1820" y="2007" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="API - manutenção de simulados" c4Type="Container" c4Technology="Lambda, NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à criação e visualização de simulados do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-15">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;fixDash=0;snapToPoint=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;fixDash=0;snapToPoint=0;" parent="1" vertex="1">
             <mxGeometry x="2097" y="1694" width="265" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-16" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.883;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-15" target="1NAFfyij3I4nuhlWr-Z4-14">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-16" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.883;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-15" target="1NAFfyij3I4nuhlWr-Z4-14" edge="1">
           <mxGeometry x="0.0007" relative="1" as="geometry">
             <mxPoint x="802" y="1070" as="sourcePoint" />
             <mxPoint x="995" y="1070" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-17" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-13" target="1NAFfyij3I4nuhlWr-Z4-14">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-17" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-13" target="1NAFfyij3I4nuhlWr-Z4-14" edge="1">
           <mxGeometry x="0.0007" relative="1" as="geometry">
             <mxPoint x="802" y="1070" as="sourcePoint" />
             <mxPoint x="995" y="1070" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-19" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.142;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-20" target="1NAFfyij3I4nuhlWr-Z4-14">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-19" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.142;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-20" target="1NAFfyij3I4nuhlWr-Z4-14" edge="1">
           <mxGeometry x="0.0007" relative="1" as="geometry">
             <mxPoint x="2233" y="1812" as="sourcePoint" />
             <mxPoint x="995" y="1070" as="targetPoint" />
@@ -329,122 +329,613 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="API - desempenho nos simulados" c4Type="Container" c4Technology="Lambda, NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas ao desempenho dos usuários nos simulados do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="1NAFfyij3I4nuhlWr-Z4-20">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;fixDash=0;snapToPoint=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;fixDash=0;snapToPoint=0;" parent="1" vertex="1">
             <mxGeometry x="1529" y="1690" width="265" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-21" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="1" source="CL_LBndg5or0uDUuHaDi-3" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-21" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" parent="1" source="CL_LBndg5or0uDUuHaDi-3" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697" y="801" as="sourcePoint" />
             <mxPoint x="890" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-22" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-10" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-22" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-10" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697" y="801" as="sourcePoint" />
             <mxPoint x="890" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-23" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-8" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-23" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-8" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697" y="801" as="sourcePoint" />
             <mxPoint x="890" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-24" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-20" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-24" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-20" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697" y="801" as="sourcePoint" />
             <mxPoint x="890" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-25" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-13" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-25" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-13" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697" y="801" as="sourcePoint" />
             <mxPoint x="890" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-26" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-15" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-26" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-15" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="697" y="801" as="sourcePoint" />
             <mxPoint x="890" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-29" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#FF0080;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="CL_LBndg5or0uDUuHaDi-3">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-29" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="CL_LBndg5or0uDUuHaDi-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-30" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#FF0080;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-10">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-30" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-31" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#FF0080;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-8">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-31" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-32" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#FF0080;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-20">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-32" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-33" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#FF0080;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-13">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-33" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-34" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#FF0080;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-15">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-34" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-2" target="1NAFfyij3I4nuhlWr-Z4-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-35" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#00CCCC;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-4">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-35" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-36" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#00CCCC;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="CL_LBndg5or0uDUuHaDi-3">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-36" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="CL_LBndg5or0uDUuHaDi-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-37" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#00CCCC;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-10">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-37" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-38" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#00CCCC;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-8">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-38" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-39" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#00CCCC;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-20">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-39" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-40" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.833;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#00CCCC;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-13">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-40" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.833;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NAFfyij3I4nuhlWr-Z4-41" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;strokeColor=#00CCCC;curved=1;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-15">
+        <mxCell id="1NAFfyij3I4nuhlWr-Z4-41" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1NAFfyij3I4nuhlWr-Z4-3" target="1NAFfyij3I4nuhlWr-Z4-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="667" y="541" as="sourcePoint" />
             <mxPoint x="860" y="541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Nivel_03" id="CCg5ZAZcFFXHMYpzXWHo">
+    <mxGraphModel dx="6104" dy="3020" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-0" />
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-1" parent="IOUlO78Hgl3LluYZMGTa-0" />
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-2" value="Responde simulados,&amp;nbsp;&lt;div&gt;cadastra questões,&amp;nbsp;&lt;div&gt;gera simulados com questões cadastradas por diversos usuários,&amp;nbsp;&lt;/div&gt;&lt;div&gt;acompanha seu desempenho nos simulados&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-3" target="IOUlO78Hgl3LluYZMGTa-21">
+          <mxGeometry x="-0.6728" relative="1" as="geometry">
+            <mxPoint x="2582" y="539.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2720" y="423" />
+              <mxPoint x="2582" y="423" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Estudante" c4Type="Person" c4Description="Usuário do Sistema de Simulados Colaborativos." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-3">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="2620" y="118" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Sistema de Simulados Colaborativos" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-4">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#1fa2db;fontColor=#1FA2DB;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="550" y="450" width="4126" height="2064" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Banco de Dados - Questões" c4Type="Container" c4Technology="PostgreSQL" c4Description="Armazena dados referentes às questões do sistema." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-6">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="1282" y="2300" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-7" value="Legenda" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="-4" y="2219" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-7">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-9" value="Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#1E4074;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-8">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-7">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-11" value="Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#3162AF;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-10">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-7">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-13" value="Container" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#52a2d8;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-12">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-7">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-15" value="Component" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#7dbef2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-14">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-7">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-17" value="External Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#6b6477;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-16">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-7">
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-19" value="External Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#8b8496;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-18">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="[System Context] Sistema de Simulados Colaborativos" c4Type="ContainerScopeBoundary" c4Description="Diagrama de contexto do Sistema de Simulados Colaborativos - nível 2 do modelo C4" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Description%&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-20">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;metaEdit=1;allowArrows=0;resizable=1;rotatable=0;connectable=0;recursiveResize=0;expand=0;pointerEvents=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="-5" y="2469" width="530" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Aplicação Web" c4Type="Container" c4Technology="JavaScript e Angular" c4Description="Disponibiliza todas as funcionalidades do Sistema de Simulados Colaborativos para os estudantes através do navegador" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-21">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="2462" y="568" width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Autenticação" c4Type="Software System" c4Description="Peça mantida por outra área da empresa que controla o login dos usuários" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="4810" y="1540" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-23" value="Controla a sessão&lt;div&gt;de usuários&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-16" target="IOUlO78Hgl3LluYZMGTa-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2530" y="1396" as="sourcePoint" />
+            <mxPoint x="997" y="802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-24" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-21" target="IOUlO78Hgl3LluYZMGTa-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2514" y="582" as="sourcePoint" />
+            <mxPoint x="2707" y="582" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-25" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-3" target="IOUlO78Hgl3LluYZMGTa-6">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="1747" y="1104" as="sourcePoint" />
+            <mxPoint x="1940" y="1104" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-26" value="" style="group" vertex="1" connectable="0" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="2747" y="570" width="233.5" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-27" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fillColor=#23A2D9;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-26">
+          <mxGeometry width="233.5" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-28" value="" style="group" vertex="1" connectable="0" parent="IOUlO78Hgl3LluYZMGTa-26">
+          <mxGeometry x="12" y="32" width="209.5" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Aplicação Mobile&lt;/font&gt;&lt;/b&gt;&lt;div&gt;[Container: React Native]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-28">
+          <mxGeometry x="17.75" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-30" value="Disponibiliza todas as funcionalidades do Sistema de Simulados Colaborativos para os estudantes através do navegador" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-28">
+          <mxGeometry y="49" width="209.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.554;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-3" target="IOUlO78Hgl3LluYZMGTa-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2582" y="539" as="targetPoint" />
+            <mxPoint x="2835" y="302" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2720" y="423" />
+              <mxPoint x="2876" y="423" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-32" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.465;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-27" target="IOUlO78Hgl3LluYZMGTa-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2394" y="687" as="sourcePoint" />
+            <mxPoint x="2547" y="1007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="BFF Aplicação Web" c4Type="Container" c4Technology="NodeJS" c4Description="Atua como um intermediário entre a aplicação web e o Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-33">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="2034" y="866" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="BFF Aplicação Mobile" c4Type="Container" c4Technology="NodeJS" c4Description="Atua como um intermediário entre a aplicação mobile e o Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-34">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3100" y="868" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Banco de Dados - Usuários" c4Type="Container" c4Technology="PostgreSQL" c4Description="Armazena dados referentes aos usuários do sistema." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-36">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="2575" y="2084" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-37" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;fixDash=0;snapToPoint=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-17" target="IOUlO78Hgl3LluYZMGTa-36">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="3117" y="881" as="sourcePoint" />
+            <mxPoint x="3310" y="881" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-38" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-33" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-40" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-13" target="IOUlO78Hgl3LluYZMGTa-6">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="1747" y="1104" as="sourcePoint" />
+            <mxPoint x="1940" y="1104" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-42" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-9" target="IOUlO78Hgl3LluYZMGTa-6">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="1747" y="1104" as="sourcePoint" />
+            <mxPoint x="1940" y="1104" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Banco de Dados - Simulados" c4Type="Container" c4Technology="PostgreSQL" c4Description="Armazena dados referentes aos simulados do sistema." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IOUlO78Hgl3LluYZMGTa-44">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3809" y="2300" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-46" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.883;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-29" target="IOUlO78Hgl3LluYZMGTa-44">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="3529" y="1122" as="sourcePoint" />
+            <mxPoint x="3722" y="1122" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-47" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-25" target="IOUlO78Hgl3LluYZMGTa-44">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="3529" y="1122" as="sourcePoint" />
+            <mxPoint x="3722" y="1122" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-48" value="Consulta e escreve&lt;div&gt;[SQL/TCP]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.142;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-21" target="IOUlO78Hgl3LluYZMGTa-44">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="4960" y="1864" as="sourcePoint" />
+            <mxPoint x="3722" y="1122" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-50" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-1" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2124" y="833" as="sourcePoint" />
+            <mxPoint x="2317" y="833" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="948" y="1623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-51" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-8" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2124" y="833" as="sourcePoint" />
+            <mxPoint x="2317" y="833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-52" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-12" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2124" y="833" as="sourcePoint" />
+            <mxPoint x="2317" y="833" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1978" y="1623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-53" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-20" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2124" y="833" as="sourcePoint" />
+            <mxPoint x="2317" y="833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-54" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-24" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2124" y="833" as="sourcePoint" />
+            <mxPoint x="2317" y="833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-55" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fixDash=0;snapToPoint=0;flowAnimation=1;strokeColor=#00CC00;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-28" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2124" y="833" as="sourcePoint" />
+            <mxPoint x="2317" y="833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-56" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-33" target="9C5OqufixynqsP5gKQCX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-57" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-33" target="9C5OqufixynqsP5gKQCX-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-58" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-33" target="9C5OqufixynqsP5gKQCX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-59" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-33" target="9C5OqufixynqsP5gKQCX-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-60" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-33" target="9C5OqufixynqsP5gKQCX-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-61" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#FF0080;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-33" target="9C5OqufixynqsP5gKQCX-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-62" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.704;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-34" target="9C5OqufixynqsP5gKQCX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-63" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-34" target="9C5OqufixynqsP5gKQCX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-64" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-34" target="9C5OqufixynqsP5gKQCX-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-65" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-34" target="9C5OqufixynqsP5gKQCX-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-66" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-34" target="9C5OqufixynqsP5gKQCX-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-67" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-34" target="9C5OqufixynqsP5gKQCX-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOUlO78Hgl3LluYZMGTa-68" value="Chama API&lt;div&gt;[HTTPS/JSON]&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#00CCCC;fixDash=0;snapToPoint=0;flowAnimation=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="IOUlO78Hgl3LluYZMGTa-34" target="9C5OqufixynqsP5gKQCX-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2094" y="573" as="sourcePoint" />
+            <mxPoint x="2287" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API - manutenção de questões" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-0">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="708" y="1703" width="354" height="404" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Questão Controller" c4Type="Component" c4Technology="NodeJS, Express" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="768" y="1731" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Questão Service" c4Type="Component" c4Technology="NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à criação e alteração de questões do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="768" y="1917" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9C5OqufixynqsP5gKQCX-5" value="Uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IOUlO78Hgl3LluYZMGTa-1" source="9C5OqufixynqsP5gKQCX-1" target="9C5OqufixynqsP5gKQCX-3">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="2315" y="1153" as="sourcePoint" />
+            <mxPoint x="888" y="1924.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API - manutenção de comentário" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-7">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="1219" y="1703" width="354" height="404" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Comentário Controller" c4Type="Component" c4Technology="NodeJS, Express" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="1279" y="1731" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Comentário Service" c4Type="Component" c4Technology="NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à manutenção de comentários das questões do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="1279" y="1917" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9C5OqufixynqsP5gKQCX-10" value="Uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9C5OqufixynqsP5gKQCX-8" target="9C5OqufixynqsP5gKQCX-9" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="2826" y="1153" as="sourcePoint" />
+            <mxPoint x="1399" y="1924.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API - consulta de questões" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-11">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="1738" y="1703" width="354" height="404" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Consulta Questão Controller" c4Type="Component" c4Technology="NodeJS, Express" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="1798" y="1731" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Consulta Questão Service" c4Type="Component" c4Technology="NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à consulta de questões do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="1798" y="1917" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9C5OqufixynqsP5gKQCX-14" value="Uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9C5OqufixynqsP5gKQCX-12" target="9C5OqufixynqsP5gKQCX-13" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="3345" y="1153" as="sourcePoint" />
+            <mxPoint x="1918" y="1924.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API - manutenção de usuário " c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-15">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="2515" y="1535" width="354" height="404" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Usuário Controller" c4Type="Component" c4Technology="NodeJS, Express" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="2575" y="1563" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Usuário Service" c4Type="Component" c4Technology="NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas a manutenção de usuários do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="2575" y="1749" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9C5OqufixynqsP5gKQCX-18" value="Uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9C5OqufixynqsP5gKQCX-16" target="9C5OqufixynqsP5gKQCX-17" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="4122" y="985" as="sourcePoint" />
+            <mxPoint x="2695" y="1756.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API - desempenho nos simulados" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-19">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3306" y="1703" width="354" height="404" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Desempenho Simulado Controller" c4Type="Component" c4Technology="NodeJS, Express" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3366" y="1731" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Desempenho Simulado Service" c4Type="Component" c4Technology="NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas ao desempenho dos usuários nos simulados do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-21">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3366" y="1917" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9C5OqufixynqsP5gKQCX-22" value="Uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9C5OqufixynqsP5gKQCX-20" target="9C5OqufixynqsP5gKQCX-21" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="4913" y="1153" as="sourcePoint" />
+            <mxPoint x="3486" y="1924.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API - resposta de simulado" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-23">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3749" y="1703" width="354" height="404" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Resposta Simulado Controller" c4Type="Component" c4Technology="NodeJS, Express" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-24">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3809" y="1731" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Resposta Simulado Service" c4Type="Component" c4Technology="NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à resposta de simulados do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-25">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="3809" y="1917" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9C5OqufixynqsP5gKQCX-26" value="Uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9C5OqufixynqsP5gKQCX-24" target="9C5OqufixynqsP5gKQCX-25" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="5356" y="1153" as="sourcePoint" />
+            <mxPoint x="3929" y="1924.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API - manutenção de simulados" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-27">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="4194" y="1703" width="354" height="404" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Simulado Controller" c4Type="Component" c4Technology="NodeJS, Express" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="4254" y="1731" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Simulado Service" c4Type="Component" c4Technology="NodeJS" c4Description="Disponibiliza todas as funcionalidades relacionadas à criação e visualização de simulados do Sistema de Simulados Colaborativos através de API JSON/HTTPS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="9C5OqufixynqsP5gKQCX-29">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="IOUlO78Hgl3LluYZMGTa-1">
+            <mxGeometry x="4254" y="1917" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9C5OqufixynqsP5gKQCX-30" value="Uses" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9C5OqufixynqsP5gKQCX-28" target="9C5OqufixynqsP5gKQCX-29" parent="IOUlO78Hgl3LluYZMGTa-1">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="5801" y="1153" as="sourcePoint" />
+            <mxPoint x="4374" y="1924.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
